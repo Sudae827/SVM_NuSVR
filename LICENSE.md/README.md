@@ -1,5 +1,4 @@
 # SVM_NuSVR
-Nu Support Vector Regression
 from pandas import read_csv
 import numpy as np
 import matplotlib.pyplot as plt
