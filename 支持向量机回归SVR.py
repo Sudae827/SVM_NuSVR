@@ -2,7 +2,6 @@
 """
 Created on Thu Oct  4 16:08:17 2018
 
-@author: zhangkefei052560
 """
 from pandas import read_csv
 import numpy as np
